@@ -1,0 +1,29 @@
+name: modus-backstage-tips-tricks
+id: ari:cloud:compass:cfeb7789-a058-4aa2-922b-a1756f4ef81b:component/b43ea7dc-2d83-47f5-9a7c-3977bf20a25c/e595eb99-4a53-4086-8ae8-1c972a7e732a
+description: A collection of tips and tricks for Backstage
+configVersion: 1
+typeId: LIBRARY
+ownerId: ari:cloud:identity::team/e141ed41-113f-47da-8bc5-ef61fb799a65
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/moduslabs/modus-backstage-tips-tricks
+relationships:
+  DEPENDS_ON: []
+labels:
+  - backstage
+  - docker
+  - flightcontrol
+  - source:github
+customFields:
+  - name: Data encrypted at rest
+    type: text
+    value: null
+  - name: Data encrypted in transit
+    type: text
+    value: null
+  - name: Last security review
+    type: text
+    value: null
